@@ -1,2 +1,2 @@
 # js_1_11
-Basic JavaScript: Multiply Two Numbers with JavaScript
+Basic JavaScript: Divide One Number by Another with JavaScript
